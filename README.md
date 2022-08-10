@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/OyGx.gif)](https://thanujs.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://thanujs7.io)
 
 <h1 align="center">Hi 👋, I'm Thanuj s</h1>
 <h3 align="center">A passionate developer from India</h3>
